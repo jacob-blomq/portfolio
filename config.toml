@@ -33,5 +33,5 @@ publishDir = "docs"
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/jacob-blomq"
+    link = "https://github.com/jacob-blomq/my_hugo_resume/"
 
