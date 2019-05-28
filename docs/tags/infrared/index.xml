@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrared on My Hugo Resume</title>
+    <link>https://jacob-blomq.github.io/my_hugo_resume/tags/infrared/</link>
+    <description>Recent content in Infrared on My Hugo Resume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://jacob-blomq.github.io/my_hugo_resume/tags/infrared/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Raspberry pi Morse Sender/Receiver</title>
+      <link>https://jacob-blomq.github.io/my_hugo_resume/projects/creations/morse_proj/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://jacob-blomq.github.io/my_hugo_resume/projects/creations/morse_proj/</guid>
+      <description>Python program that utilizes Raspberry pis, IR light, and IR receiver to send morse via infrared. User inputs an english phrase, phrase is translated and transmitted via long and short light signals, is received by a second pi via infrared receiver, then finally retranslated into english</description>
+    </item>
+    
+  </channel>
+</rss>
