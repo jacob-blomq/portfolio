@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>Hard-working and motivated individual with experience with Linux and Windows systems, object-oriented programming languages, HTML and CSS, and System Administration operations.</p>
+<p>Hard-working and motivated individual with experience with Linux and Windows systems, Python and Bash, HTML and CSS, and System Administration operations.</p>
