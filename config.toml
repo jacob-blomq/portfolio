@@ -2,7 +2,6 @@ baseURL = "https://github.com/jacob-blomq/my_hugo_resume.git"
 languageCode = "en-us"
 title = "My Hugo Resume"
 theme = "resume"
-publishDir = "docs"
 
 [params]
     firstName = "Jacob"
