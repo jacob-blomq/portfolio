@@ -1,0 +1,26 @@
+[
+    {
+        "role":"SysAdmin Intern",
+        "company":"Massachusetts Green High Performance Computing Center, Holyoke, MA",
+        "summary":"Collaborated with other interns and professionals in installation and maintenance of high performance systems. Attained online Linux course certificate and contributed to future success of training program by writing introductory manual via GitHub. Diagnosed, tested, and participated in troubleshooting Dell hardware. Used bash scripts to automate software installation on Windows operating systems.",
+        "range":"06/2015 - 08/2015"
+    },
+    {
+        "role":"Delivery Driver",
+        "company":"Pizza Bella, Bedford, NH",
+        "summary":"Promote smooth operation of restaurant and facilitate effective communication of coworkers, regularly demanding effective customer conflict resolution and the handling monetary transactions.Required to train new employees each season.",
+        "range":"06/2016 - Present"
+    },
+    {
+        "role":"Lifeguard",
+        "company":"Sudden Pitch, Manchester, NH",
+        "summary":"Trained in CPR/AED and First Aid, required to be vigilant at all times and quickly respond to potentially harmful situations. Maintained a clean and safe environment for patrons and had to cooperate with other lifeguards in fair division of lavor so as to finish work quickly and effectively.",
+        "range":"06/2017 - 08/2018"
+    },
+    {
+	"role":"Cashier and Service Desk Employee",
+	"company":"Walmart, Hooksett, NH",
+	"summary":"Ran registers as a cashier processing transactions for customers. Facilitated returns, money transfers, and cashing checks at service desk.",       "range":"07/2014 - 06/2016"
+    }	
+]
+

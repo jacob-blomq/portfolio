@@ -1,0 +1,14 @@
+[
+  {
+      "grouping":"Hardware Platforms",
+      "skills":[ "Intel x86","Raspberry Pi"]
+  },{
+      "grouping":"Operating Systems",
+      "skills":[ "Ubuntu", "Centos", "Windows"]
+  },
+  {
+      "grouping":"Languages and Tools",
+      "skills":[ "Python","Java","Bash","HTML","CSS","SQL", "git"]
+  }
+  
+]
