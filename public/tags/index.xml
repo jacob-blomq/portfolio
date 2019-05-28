@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Hugo Resume</title>
-    <link>https://github.com/jacob-blomq/my_hugo_resume.git/tags/</link>
+    <link>https://jacob-blomq.github.io/my_hugo_resume/tags/</link>
     <description>Recent content in Tags on My Hugo Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://github.com/jacob-blomq/my_hugo_resume.git/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jacob-blomq.github.io/my_hugo_resume/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>File Parsing</title>
-      <link>https://github.com/jacob-blomq/my_hugo_resume.git/tags/file-parsing/</link>
+      <link>https://jacob-blomq.github.io/my_hugo_resume/tags/file-parsing/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://github.com/jacob-blomq/my_hugo_resume.git/tags/file-parsing/</guid>
+      <guid>https://jacob-blomq.github.io/my_hugo_resume/tags/file-parsing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infrared</title>
-      <link>https://github.com/jacob-blomq/my_hugo_resume.git/tags/infrared/</link>
+      <link>https://jacob-blomq.github.io/my_hugo_resume/tags/infrared/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://github.com/jacob-blomq/my_hugo_resume.git/tags/infrared/</guid>
+      <guid>https://jacob-blomq.github.io/my_hugo_resume/tags/infrared/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://github.com/jacob-blomq/my_hugo_resume.git/tags/python/</link>
+      <link>https://jacob-blomq.github.io/my_hugo_resume/tags/python/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://github.com/jacob-blomq/my_hugo_resume.git/tags/python/</guid>
+      <guid>https://jacob-blomq.github.io/my_hugo_resume/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raspberry Pi</title>
-      <link>https://github.com/jacob-blomq/my_hugo_resume.git/tags/raspberry-pi/</link>
+      <link>https://jacob-blomq.github.io/my_hugo_resume/tags/raspberry-pi/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://github.com/jacob-blomq/my_hugo_resume.git/tags/raspberry-pi/</guid>
+      <guid>https://jacob-blomq.github.io/my_hugo_resume/tags/raspberry-pi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Webscraping</title>
-      <link>https://github.com/jacob-blomq/my_hugo_resume.git/tags/webscraping/</link>
+      <link>https://jacob-blomq.github.io/my_hugo_resume/tags/webscraping/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://github.com/jacob-blomq/my_hugo_resume.git/tags/webscraping/</guid>
+      <guid>https://jacob-blomq.github.io/my_hugo_resume/tags/webscraping/</guid>
       <description></description>
     </item>
     

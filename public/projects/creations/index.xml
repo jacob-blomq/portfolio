@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creations on My Hugo Resume</title>
-    <link>https://github.com/jacob-blomq/my_hugo_resume.git/projects/creations/</link>
+    <link>https://jacob-blomq.github.io/my_hugo_resume/projects/creations/</link>
     <description>Recent content in Creations on My Hugo Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://github.com/jacob-blomq/my_hugo_resume.git/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jacob-blomq.github.io/my_hugo_resume/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IMAP Locator</title>
-      <link>https://github.com/jacob-blomq/my_hugo_resume.git/projects/creations/imaplocator/</link>
+      <link>https://jacob-blomq.github.io/my_hugo_resume/projects/creations/imaplocator/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://github.com/jacob-blomq/my_hugo_resume.git/projects/creations/imaplocator/</guid>
+      <guid>https://jacob-blomq.github.io/my_hugo_resume/projects/creations/imaplocator/</guid>
       <description>Takes in positional command line argument to search for specific user and an optional -f or -file argument to specify the file to parse</description>
     </item>
     
     <item>
       <title>NBA Stat Checker</title>
-      <link>https://github.com/jacob-blomq/my_hugo_resume.git/projects/creations/nba-stat-checker/</link>
+      <link>https://jacob-blomq.github.io/my_hugo_resume/projects/creations/nba-stat-checker/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://github.com/jacob-blomq/my_hugo_resume.git/projects/creations/nba-stat-checker/</guid>
+      <guid>https://jacob-blomq.github.io/my_hugo_resume/projects/creations/nba-stat-checker/</guid>
       <description>NBA Stat Checker is Python program that gathers web data and displays the top NBA players in a particular stat category (points-per-game, assists-per-game, rebounds-per-game, etc)</description>
     </item>
     
     <item>
       <title>Raspberry pi Morse Sender/Receiver</title>
-      <link>https://github.com/jacob-blomq/my_hugo_resume.git/projects/creations/morse_proj/</link>
+      <link>https://jacob-blomq.github.io/my_hugo_resume/projects/creations/morse_proj/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://github.com/jacob-blomq/my_hugo_resume.git/projects/creations/morse_proj/</guid>
+      <guid>https://jacob-blomq.github.io/my_hugo_resume/projects/creations/morse_proj/</guid>
       <description>Python program that utilizes Raspberry pis, IR light, and IR receiver to send morse via infrared. User inputs an english phrase, phrase is translated and transmitted via long and short light signals, is received by a second pi via infrared receiver, then finally retranslated into english</description>
     </item>
     
