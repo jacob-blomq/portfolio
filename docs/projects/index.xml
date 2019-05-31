@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on My Hugo Resume</title>
-    <link>https://jacob-blomq.github.io/my_hugo_resume/projects/</link>
+    <link>jacob-blomq.github.io/projects/</link>
     <description>Recent content in Projects on My Hugo Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jacob-blomq.github.io/my_hugo_resume/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="jacob-blomq.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
